@@ -20,7 +20,7 @@ I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a product
 | [algorist](https://crates.io/crates/algorist) | Algorithm library for competitive programming | ![Downloads](https://img.shields.io/crates/d/algorist) |
 
 
-See all my crates at [crates.io/users/farazdagi](https://crates.io/users/farazdagi?sort=downloads):
+See all my crates at 🦀 [crates.io](https://crates.io/users/farazdagi?sort=downloads):
 
 ## <img src="zorro.svg" alt="Go!" width="32" height="32" /> Golang Contributions
 
@@ -34,7 +34,8 @@ See all my crates at [crates.io/users/farazdagi](https://crates.io/users/farazda
 | [keyspace](https://crates.io/crates/keyspace) | Keyspace partitioning for distributed systems | ![Downloads](https://img.shields.io/crates/d/keyspace) |
 | [evict](https://crates.io/crates/evict) | Cache eviction strategies (LRU, LRU-K, LIRS, SLRU) | ![Downloads](https://img.shields.io/crates/d/evict) |
 | [hlc-gen](https://crates.io/crates/hlc-gen) | Lock-free Hybrid Logical Clock generator | ![Downloads](https://img.shields.io/crates/d/hlc-gen) |
--->
 
 ---
 📫 [farazdagi.com](https://farazdagi.com) • 🦀 [crates.io](https://crates.io/users/farazdagi?sort=downloads)
+
+-->
