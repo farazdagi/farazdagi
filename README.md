@@ -7,18 +7,22 @@
 
 🌐 Contributor to Ethereum ecosystem (Prysm, EVM implementations)
 
+## 🚀 Active Projects
 
+I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a production-grade Ethereum Virtual Machine implementation in Zig.
 
+## 📦 Published Rust Crates
 
-## What's up?
+Available on [crates.io/users/farazdagi](https://crates.io/users/farazdagi?sort=downloads):
 
-### Zevm
-
-I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a production-grade EVM Implementation in Zig.
-
-###  Algorist
-The [algorist](https://github.com/farazdagi/algorist) is a zero-unsafe Rust implementations of algorithms & data structures, for competetive programming.
-The ultimate aim is to make Rust an easy choice for algorithms training.
+| Crate | Description | Downloads |
+|-------|-------------|-----------|
+| [mpchash](https://crates.io/crates/mpchash) | Multi-probe consistent hashing | ![Downloads](https://img.shields.io/crates/d/mpchash) |
+| [hash-iter](https://crates.io/crates/hash-iter) | Enhanced double hashing in Rust | ![Downloads](https://img.shields.io/crates/d/hash-iter) |
+| [evict](https://crates.io/crates/evict) | Cache eviction strategies (LRU, LRU-K, LIRS, SLRU) | ![Downloads](https://img.shields.io/crates/d/evict) |
+| [algorist](https://crates.io/crates/algorist) | Algorithm library for competitive programming | ![Downloads](https://img.shields.io/crates/d/algorist) |
+| [hlc-gen](https://crates.io/crates/hlc-gen) | Lock-free Hybrid Logical Clock generator | ![Downloads](https://img.shields.io/crates/d/hlc-gen) |
+| [keyspace](https://crates.io/crates/keyspace) | Keyspace partitioning for distributed systems | ![Downloads](https://img.shields.io/crates/d/keyspace) |
 
 ---
 📫 [farazdagi.com](https://farazdagi.com) • 🦀 [crates.io](https://crates.io/users/farazdagi?sort=downloads)
