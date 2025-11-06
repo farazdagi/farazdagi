@@ -24,4 +24,4 @@ The [algorist](https://github.com/farazdagi/algorist) is a zero-unsafe Rust impl
 The ultimate aim is to make Rust an easy choice for algorithms training.
 
 ---
-📫 [farazdagi.com](https://farazdagi.com) • 🦀 [crates.io](https://crates.io/users/farazdagi)
+📫 [farazdagi.com](https://farazdagi.com) • 🦀 [crates.io](https://crates.io/users/farazdagi?sort=downloads)
