@@ -7,11 +7,11 @@
 
 🌐 Contributor to Ethereum ecosystem (Prysm, EVM implementations)
 
-## 🚀 Active Projects
+## <img src="zero.svg" alt="Zig!" weight="32" height="32" /> Active Projects
 
 I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a production-grade Ethereum Virtual Machine implementation in Zig.
 
-## 📦 Published Rust Crates
+## <img src="ferris.png" alt="Rust!" width="32" height="32" /> Published Rust Crates
 
 | Crate | Description | Downloads |
 |-------|-------------|-----------|
@@ -22,7 +22,7 @@ I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a product
 
 See all my crates at [crates.io/users/farazdagi](https://crates.io/users/farazdagi?sort=downloads):
 
-## <img src="https://github.com/egonelbre/gophers/blob/master/vector/superhero/zorro.svg" alt="Go!" width="32" height="32" /> Golang Contributions
+## <img src="zorro.svg" alt="Go!" width="32" height="32" /> Golang Contributions
 
 | Project | Description | Commits |
 |---------|-------------|---------|
