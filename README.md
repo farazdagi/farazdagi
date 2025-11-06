@@ -15,9 +15,9 @@ I’m currently working on [zevm](https://github.com/farazdagi/zevm) - a product
 
 | Crate | Description | Downloads |
 |-------|-------------|-----------|
-| [mpchash](https://crates.io/crates/mpchash) | Multi-probe consistent hashing | ![Downloads](https://img.shields.io/crates/d/mpchash) |
-| [hash-iter](https://crates.io/crates/hash-iter) | Enhanced double hashing in Rust | ![Downloads](https://img.shields.io/crates/d/hash-iter) |
-| [algorist](https://crates.io/crates/algorist) | Algorithm library for competitive programming | ![Downloads](https://img.shields.io/crates/d/algorist) |
+| [mpchash](https://crates.io/crates/mpchash) | Lock-free multi-probe consistent hashing | ![Downloads](https://img.shields.io/crates/d/mpchash) |
+| [hash-iter](https://crates.io/crates/hash-iter) | Double hashing hash iterartor | ![Downloads](https://img.shields.io/crates/d/hash-iter) |
+| [algorist](https://crates.io/crates/algorist) | Algorithmic toolset for competitive programming | ![Downloads](https://img.shields.io/crates/d/algorist) |
 
 
 See all my crates at 🦀 [crates.io](https://crates.io/users/farazdagi?sort=downloads):
