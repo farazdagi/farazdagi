@@ -26,7 +26,7 @@ See all my crates at 🦀 [crates.io](https://crates.io/users/farazdagi?sort=dow
 
 | Project | Description | Commits |
 |---------|-------------|---------|
-| [Prysm](https://github.com/OffchainLabs/prysm) | Ethereum 2.0 consensus client (beacon chain)  | [![commits](https://img.shields.io/badge/commits-341-blue)](https://github.com/OffchainLabs/prysm/commits?author=farazdagi) |
+| [Prysm](https://github.com/OffchainLabs/prysm) | Ethereum 2.0 consensus client (beacon chain)  | [![commits](https://img.shields.io/badge/commits-343-blue)](https://github.com/OffchainLabs/prysm/commits?author=farazdagi) |
 | [Status](https://github.com/status-im/status-go) | Decentralized messaging platform & Ethereum wallet| [![commits](https://img.shields.io/badge/commits-137-blue)](https://github.com/status-im/status-go/commits?author=farazdagi) |
 
 ## <img src="zero.svg" alt="Zig!" weight="32" height="32" /> Experiments
