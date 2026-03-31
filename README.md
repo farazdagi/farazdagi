@@ -1,12 +1,14 @@
 # 👋 Victor Farazdagi • Software Engineer
 
-**Rust, Go, Zig • Distributed Systems • Blockchain Infrastructure**
+**Rust, Go, Zig • Databases • Distributed Systems • Blockchain Infrastructure**
 
+<img width="16" alt="supabase-logo-icon" src="https://github.com/user-attachments/assets/16f55ff5-2be1-48df-9178-01855c48454e" /> Engineer @ ETL Team / Supabase
 
 🔨 Building distributed systems in Rust, or Go, or Zig
 
 🌐 Contributor to Ethereum ecosystem (Prysm, EVM implementations)
 
+<!-- 
 ## Active Projects
 
 Working on an AI toolbox that enables me to be x10 more productive, while still enjoying the software engineering.
@@ -35,7 +37,7 @@ See all my crates at 🦀 [crates.io](https://crates.io/users/farazdagi?sort=dow
 |-------|-------------|-----------|
 | [zevm](https://github.com/farazdagi/zevm) | A production-grade EVM implementation in Zig. | Learning Zig |
 
-<!-- 
+
 | [keyspace](https://crates.io/crates/keyspace) | Keyspace partitioning for distributed systems | ![Downloads](https://img.shields.io/crates/d/keyspace) |
 | [evict](https://crates.io/crates/evict) | Cache eviction strategies (LRU, LRU-K, LIRS, SLRU) | ![Downloads](https://img.shields.io/crates/d/evict) |
 | [hlc-gen](https://crates.io/crates/hlc-gen) | Lock-free Hybrid Logical Clock generator | ![Downloads](https://img.shields.io/crates/d/hlc-gen) |
