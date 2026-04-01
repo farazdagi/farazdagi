@@ -2,7 +2,7 @@
 
 **Rust, Go, Zig • Databases • Distributed Systems • Blockchain Infrastructure**
 
-<img width="16" alt="supabase-logo-icon" src="https://github.com/user-attachments/assets/16f55ff5-2be1-48df-9178-01855c48454e" /> Engineer @ ETL Team / Supabase
+<img width="16" alt="supabase-logo-icon" src="https://github.com/user-attachments/assets/16f55ff5-2be1-48df-9178-01855c48454e" /> Rust Engineer / ETL Team [@Supabase](https://github.com/supabase)
 
 🔨 Building distributed systems in Rust, or Go, or Zig
 
